@@ -46,5 +46,3 @@ The Open Source Sinonasal Survey (OS3) (c) by the authors, at the Department of 
 The OS3 questionnaires are licensed under a
 **Creative Commons Attribution 4.0 International License**.
 See <http://creativecommons.org/licenses/by/4.0/>.
-
-10.1111/j.1749-4486.2009.01995.x
