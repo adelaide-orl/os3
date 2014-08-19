@@ -22,6 +22,7 @@ The OS3 is administered in about 10 minutes. We tried to design it in a way so t
 What about Quality of Life (QOL) measurement?
 ---------------------------------------------
 We use, and recommend, the SNOT-22 for its strong research profile.
+
 See:
 Hopkins, C., Gillett, S., Slack, R., Lund, V.J. and Browne, J.P. (2009), Psychometric validity of the 22-item Sinonasal Outcome Test. Clinical Otolaryngology, 34: 447–454. doi: 
 `10.1111/j.1749-4486.2009.01995.x <http://doi.org/10.1111/j.1749-4486.2009.01995.x>`_
