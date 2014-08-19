@@ -9,7 +9,7 @@ We started using common questionnaires for CRS research in late 2011. The versio
 
 Why are the surveys provided under an open-access license?
 ----------------------------------------------------------
-By open-sourcing our surveys, we hope to generate discussion about appropriate information-collecting instruments for CRS researh. The end goal would be to improve global CRS multi-center research. The license is Creative Commons 4.0 Share
+By open-sourcing our surveys, we hope to generate discussion about appropriate information-collecting instruments for CRS researh. The end goal would be to improve global CRS multi-center research. The OS3 is licensed under Creative Commons Attribution 4.0.
 
 Is the OS3 peer-reviewed?
 ----------------------------
