@@ -29,7 +29,7 @@ Hopkins, C., Gillett, S., Slack, R., Lund, V.J. and Browne, J.P. (2009), Psychom
 
 Morley, A.D. and Sharp, H.R. (2006), A review of sinonasal outcome scoring systems – which is best?. Clinical Otolaryngology, 31: 103–109. doi: `10.1111/j.1749-4486.2006.01155.x <http://doi.org/10.1111/j.1749-4486.2006.01155.x>`_
 
-The SNOT-22 adds two extra questions to the original SNOT-20, which is also a validated instrument.
+The SNOT-22 adds two extra questions (nasal blockage, and altered smell or taste) to the original SNOT-20, which is also a validated instrument.
 
 See:
 Piccirillo JF, Merritt MG, Richards ML. Psychometric and clinimetric validity of the 20-Item Sino-Nasal Outcome Test (SNOT-20). Otolaryngol Head Neck Surg. 2002 Jan;126(1):41–7. doi: `10.1067/mhn.2002.121022 <http://dx.doi.org/10.1067/mhn.2002.121022>`_
