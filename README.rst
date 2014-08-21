@@ -39,6 +39,13 @@ How do I contribute to the OS3?
 -------------------------------
 [To be added soon]
 
+Contact
+-------
+| If you have any questions about the OS3, please contact:
+| Dr. Alkis Psaltis,
+| Department of Surgery- Otorhinolaryngology, Head & Neck Surgery
+| University of Adelaide
+
 License
 ---------
 The Open Source Sinonasal Survey (OS3) (c) by the authors, at the Department of Surgery- Otorhinolaryngology, Head & Neck Surgery, University of Adelaide.
